@@ -48,7 +48,7 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 - Fork this repo and click on below button to get access of deploy page.
-- [![Deploy](https://dashboard.heroku.com/new-app?template="https://github.com/sachin-sinha01/HellBot")
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sachin-sinha01/HellBot)
 
 ------
 ## Deploy on Railway
